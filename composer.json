@@ -1,0 +1,12 @@
+{
+	"name": "dronemill/phphelpers",
+	"description": "Miscellaneous php helper methods",
+	"keywords": ["dronemill", "php", "helpers"],
+	"license": "MIT",
+	"minimum-stability": "stable",
+	"autoload": {
+		"psr-4": {
+			"DroneMill\\Helpers\\": "src/"
+		}
+	}
+}
