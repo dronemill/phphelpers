@@ -1,0 +1,2 @@
+# phphelpers
+Miscellaneousphp helper methods
